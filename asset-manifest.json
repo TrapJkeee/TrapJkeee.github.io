@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b73b9844.css",
+    "main.js": "/static/js/main.66fe6b7b.js",
+    "static/media/logo.svg": "/static/media/logo.1db7e9d24207987e1ce85eafcebd91be.svg",
+    "static/media/movie.svg": "/static/media/movie.b005a00d7c0370423b898271d1f85d10.svg",
+    "static/media/loading.svg": "/static/media/loading.8f6ccb9a5a1472fc5528fd25245df502.svg",
+    "static/media/cartoons.svg": "/static/media/cartoons.b447d7d1f6afe30dd3c491b7d6fe2c1e.svg",
+    "static/media/serials.svg": "/static/media/serials.c11a6a038a05e32639a712b6502c48a3.svg",
+    "static/media/home.svg": "/static/media/home.21cc2421c5bf1fe9e753cfe99be71b9b.svg",
+    "static/media/close.svg": "/static/media/close.98fcdcf78ebfc0fb866842bb45c8c32a.svg",
+    "index.html": "/index.html",
+    "main.b73b9844.css.map": "/static/css/main.b73b9844.css.map",
+    "main.66fe6b7b.js.map": "/static/js/main.66fe6b7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b73b9844.css",
+    "static/js/main.66fe6b7b.js"
+  ]
+}
